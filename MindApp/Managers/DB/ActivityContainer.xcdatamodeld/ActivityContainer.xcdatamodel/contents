@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="23605" systemVersion="24D60" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="ActivityEntity" representedClassName=".ActivityEntity" syncable="YES" codeGenerationType="class">
+        <attribute name="category" attributeType="String"/>
+        <attribute name="id" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="imageUrl" attributeType="String"/>
+        <attribute name="name" attributeType="String"/>
+        <relationship name="ac_bre_rel" optional="YES" maxCount="1" deletionRule="Cascade" destinationEntity="BreathingEntity" inverseName="bre_ae_rel" inverseEntity="BreathingEntity"/>
+        <relationship name="ac_loc_rel" toMany="YES" deletionRule="Cascade" destinationEntity="LocalizationEntity" inverseName="loc_ae_rel" inverseEntity="LocalizationEntity"/>
+        <relationship name="ac_med_rel" optional="YES" maxCount="1" deletionRule="Cascade" destinationEntity="MeditationEntity" inverseName="med_ae_rel" inverseEntity="MeditationEntity"/>
+        <relationship name="ac_type_rel" toMany="YES" deletionRule="Cascade" destinationEntity="MindfulnessTypeEntity" inverseName="mt_ae_rel" inverseEntity="MindfulnessTypeEntity"/>
+        <uniquenessConstraints>
+            <uniquenessConstraint>
+                <constraint value="id"/>
+            </uniquenessConstraint>
+        </uniquenessConstraints>
+    </entity>
+    <entity name="BreathingEntity" representedClassName=".BreathingEntity" syncable="YES" codeGenerationType="class">
+        <attribute name="cycleCount" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="exhaleDuration" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="holdDuration" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="inhaleDuration" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="secondHoldDuration" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <relationship name="bre_ae_rel" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="ActivityEntity" inverseName="ac_bre_rel" inverseEntity="ActivityEntity"/>
+    </entity>
+    <entity name="LocalizationEntity" representedClassName=".LocalizationEntity" syncable="YES" codeGenerationType="class">
+        <attribute name="l_description" attributeType="String"/>
+        <attribute name="locale" attributeType="String"/>
+        <attribute name="overview" optional="YES" attributeType="String"/>
+        <attribute name="scienceDesc" optional="YES" attributeType="String"/>
+        <attribute name="tips" optional="YES" attributeType="Binary"/>
+        <attribute name="title" attributeType="String"/>
+        <relationship name="loc_ae_rel" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="ActivityEntity" inverseName="ac_loc_rel" inverseEntity="ActivityEntity"/>
+    </entity>
+    <entity name="MeditationEntity" representedClassName=".MeditationEntity" syncable="YES" codeGenerationType="class">
+        <attribute name="downloadUrl" optional="YES" attributeType="String"/>
+        <attribute name="minutesDuration" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="secondsDuration" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <relationship name="med_ae_rel" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="ActivityEntity" inverseName="ac_med_rel" inverseEntity="ActivityEntity"/>
+    </entity>
+    <entity name="MindfulnessLocalizationEntity" representedClassName=".MindfulnessLocalizationEntity" syncable="YES" codeGenerationType="class">
+        <attribute name="locale" attributeType="String"/>
+        <attribute name="name" attributeType="String"/>
+        <relationship name="mloc_type_rel" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="MindfulnessTypeEntity" inverseName="mt_loc_rel" inverseEntity="MindfulnessTypeEntity"/>
+    </entity>
+    <entity name="MindfulnessTypeEntity" representedClassName=".MindfulnessTypeEntity" syncable="YES" codeGenerationType="class">
+        <attribute name="iconName" attributeType="String"/>
+        <attribute name="id" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="name" attributeType="String"/>
+        <relationship name="mt_ae_rel" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="ActivityEntity" inverseName="ac_type_rel" inverseEntity="ActivityEntity"/>
+        <relationship name="mt_loc_rel" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="MindfulnessLocalizationEntity" inverseName="mloc_type_rel" inverseEntity="MindfulnessLocalizationEntity"/>
+        <uniquenessConstraints>
+            <uniquenessConstraint>
+                <constraint value="id"/>
+            </uniquenessConstraint>
+        </uniquenessConstraints>
+    </entity>
+</model>

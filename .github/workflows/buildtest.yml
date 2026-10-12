@@ -1,0 +1,43 @@
+name: Test and Deploy to TestFlight
+
+on:
+  pull_request:
+    branches:
+      - main
+      - stage
+
+jobs:
+  test:
+    runs-on: macos-latest
+    strategy:
+      matrix:
+        xcode-version: ['16.1.0']
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Xcode
+        uses: maxim-lobanov/setup-xcode@v1
+        with:
+          xcode-version: ${{ matrix.xcode-version }}
+
+      - name: List available simulators
+        run: xcrun simctl list devices
+
+      - name: Build iOS app for testing
+        run: |
+          xcodebuild -project MindApp.xcodeproj \
+                     -scheme MindApp \
+                     -sdk iphonesimulator \
+                     -configuration Debug \
+                     -destination 'platform=iOS Simulator,name=iPhone 16,OS=18.1' \
+                     build
+
+      - name: Run tests
+        run: |
+          xcodebuild -project MindApp.xcodeproj \
+                     -scheme MindApp \
+                     -sdk iphonesimulator \
+                     -configuration Debug \
+                     -destination 'platform=iOS Simulator,name=iPhone 16,OS=18.1' \
+                     test

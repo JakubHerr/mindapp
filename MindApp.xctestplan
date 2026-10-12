@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "9F9B7577-EEE6-4B1C-8609-FB3D49387FA3",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:MindApp.xcodeproj",
+        "identifier" : "F344837A2D450E8300611CC6",
+        "name" : "MindAppTests"
+      }
+    }
+  ],
+  "version" : 1
+}

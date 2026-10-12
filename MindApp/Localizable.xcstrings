@@ -1,0 +1,3557 @@
+{
+  "sourceLanguage" : "cs",
+  "strings" : {
+    "" : {
+
+    },
+    "%.0f" : {
+
+    },
+    "%@" : {
+
+    },
+    "%@ min" : {
+
+    },
+    "%@: %.0f" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@: %2$.0f"
+          }
+        }
+      }
+    },
+    "%@: %@" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@: %2$@"
+          }
+        }
+      }
+    },
+    "%d minute" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%d minutu"
+          }
+        }
+      }
+    },
+    "%d minute %d seconds" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$d minutu %2$d sekund"
+          }
+        }
+      }
+    },
+    "%d minutes" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%d minut"
+          }
+        }
+      }
+    },
+    "%d minutes %d seconds" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$d minuty %2$d sekund"
+          }
+        }
+      }
+    },
+    "%d seconds" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%d sekund"
+          }
+        }
+      }
+    },
+    "%lld" : {
+
+    },
+    "%lld m" : {
+
+    },
+    "%lld M" : {
+
+    },
+    "%lld ms" : {
+
+    },
+    "%lld s" : {
+
+    },
+    "%lld seconds" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld sekund"
+          }
+        }
+      }
+    },
+    "%lld%% there" : {
+
+    },
+    "%lldx" : {
+
+    },
+    "• %@" : {
+
+    },
+    "|" : {
+
+    },
+    "👍" : {
+
+    },
+    "👎" : {
+
+    },
+    "23" : {
+
+    },
+    "AI App" : {
+
+    },
+    "ai_insights" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Poznatky AI"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "AI Insights"
+          }
+        }
+      }
+    },
+    "ai_summary_motivator_section_header" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zdravotní motivace od AI"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "AI Health Summary Motivator"
+          }
+        }
+      }
+    },
+    "ai_summary_section_header" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zdravotní souhrn od AI"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "AI Health Summary"
+          }
+        }
+      }
+    },
+    "ai_summary_supporter_section_header" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zdravotní podpora od AI"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "AI Health Summary Supporter"
+          }
+        }
+      }
+    },
+    "ai_summary_type_not_supported_header" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tento typ zdravotního shrnutí není podporován"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "This type of AI Health Summary isn’t supported"
+          }
+        }
+      }
+    },
+    "An error occured" : {
+
+    },
+    "are_you_sure_alert" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jste si jistý, že chcete odejít?"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Are you sure you want to leave?"
+          }
+        }
+      }
+    },
+    "auth_button_signin" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Přihlásit se"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Log in"
+          }
+        }
+      }
+    },
+    "auth_button_signup" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vytvořit účet"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sign Up"
+          }
+        }
+      }
+    },
+    "auth_email_label" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E-mail"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E-mail"
+          }
+        }
+      }
+    },
+    "auth_email_text" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zadejte svůj e-mail"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enter your e-mail"
+          }
+        }
+      }
+    },
+    "auth_password_label" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heslo"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Password"
+          }
+        }
+      }
+    },
+    "auth_password_label_again" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heslo znovu"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Password again"
+          }
+        }
+      }
+    },
+    "auth_password_text" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zadejte heslo"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enter password"
+          }
+        }
+      }
+    },
+    "auth_password_text_again" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zadejte heslo znovu"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enter password again"
+          }
+        }
+      }
+    },
+    "auth_signin_desc" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Přihlaste se a pokračujte ve své cestě ke klidnějšímu životu"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sign in to your account and continue your journey towards a calmer, stress-free life"
+          }
+        }
+      }
+    },
+    "auth_signup_desc" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vytvořte si účet a udělejte první krok ke klidnějšímu životu"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Create your account and take the first step towards a calmer, stress-free life"
+          }
+        }
+      }
+    },
+    "back" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zpět"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Back"
+          }
+        }
+      }
+    },
+    "blocking" : {
+
+    },
+    "Breathing" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dýchání"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Breathing"
+          }
+        }
+      }
+    },
+    "calories_small_title" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktivní kalorie"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Active calories"
+          }
+        }
+      }
+    },
+    "cancel" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zrušit"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel"
+          }
+        }
+      }
+    },
+    "cancel_alert_option" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zrušit"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel"
+          }
+        }
+      }
+    },
+    "chat_with_ai" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chat s AI"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Chat with AI"
+          }
+        }
+      }
+    },
+    "Close" : {
+
+    },
+    "continue" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pokračovat"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        }
+      }
+    },
+    "Count" : {
+
+    },
+    "create_acc" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vytvořte si účet"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Create a new account"
+          }
+        }
+      }
+    },
+    "dailyview_refresh_label" : {
+      "comment" : "Pull to refresh label",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Načíst data..."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Load data..."
+          }
+        }
+      }
+    },
+    "dailyview_section_latest_readings_header" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nejnovější data"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Latest readings"
+          }
+        }
+      }
+    },
+    "dailyview_section_latest_readings_hr_label" : {
+      "comment" : "HR label",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HR"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HR"
+          }
+        }
+      }
+    },
+    "dailyview_section_latest_readings_hrv_label" : {
+      "comment" : "HRV label",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HRV"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HRV"
+          }
+        }
+      }
+    },
+    "dailyview_section_latest_readings_hrv30_label" : {
+      "comment" : "HRV30 label",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Průměr HRV (za 30 dní)"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Average HRV (last 30 days)"
+          }
+        }
+      }
+    },
+    "dailyview_section_latest_readings_rhr_label" : {
+      "comment" : "RHR label",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RHR"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RHR"
+          }
+        }
+      }
+    },
+    "dailyview_section_latest_readings_rhr30_label" : {
+      "comment" : "RHR30 label",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Průměr RHR (za 30 dní)"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Average RHR (last 30 days)"
+          }
+        }
+      }
+    },
+    "dailyview_section_recommended_loading" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Doporučuji praktiku..."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recommending activity..."
+          }
+        }
+      }
+    },
+    "dailyview_section_recommended_session" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Doporučená praktika"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recommended session"
+          }
+        }
+      }
+    },
+    "dailyview_section_stress_trend_graphlabel" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vývoj HRV a stresu v průběhu dne"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Evolution of HRV and stress during the day"
+          }
+        }
+      }
+    },
+    "dailyview_section_stress_trend_header" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HRV & Úroveň stresu"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HRV & Stress level"
+          }
+        }
+      }
+    },
+    "Day" : {
+
+    },
+    "dynamic_ai_apps" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dynamické AI aplikace"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dynamic AI Apps"
+          }
+        }
+      }
+    },
+    "evaluation_button_next" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Další"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Next"
+          }
+        }
+      }
+    },
+    "evaluation_button_previous" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Předchozí"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Previous"
+          }
+        }
+      }
+    },
+    "finish_session_button" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ukončit sezení"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Finish session"
+          }
+        }
+      }
+    },
+    "Generate" : {
+
+    },
+    "generating_status_text" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Generování…"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Generating…"
+          }
+        }
+      }
+    },
+    "get_ai_health_motivation" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Získejte motivaci od AI"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get motivated by AI"
+          }
+        }
+      }
+    },
+    "get_ai_health_summary" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Získejte zdravotní shrnutí od AI"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get AI generated health summary"
+          }
+        }
+      }
+    },
+    "get_ai_health_support" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Získejte podporu od AI"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get support by AI"
+          }
+        }
+      }
+    },
+    "graph_infobox_label_hrv" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HRV"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HRV"
+          }
+        }
+      }
+    },
+    "graph_infobox_label_hrv_rmssd" : {
+      "comment" : "HRV rMSSD Label",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HRV (rMSSD)"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HRV (rMSSD)"
+          }
+        }
+      }
+    },
+    "graph_infobox_label_hrv_sdnn" : {
+      "comment" : "HRV SDNN Label",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HRV (SDNN)"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HRV (SDNN)"
+          }
+        }
+      }
+    },
+    "graph_infobox_label_stress" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Úroveň stresu"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stress level"
+          }
+        }
+      }
+    },
+    "graph_infobox_label_time" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Čas"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Time"
+          }
+        }
+      }
+    },
+    "Hello world" : {
+
+    },
+    "Hello, World!" : {
+
+    },
+    "home_header" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Denní přehled"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Today's summary"
+          }
+        }
+      }
+    },
+    "HRV" : {
+
+    },
+    "hrv_stress_graph_" : {
+
+    },
+    "hrv_stress_graph_hrv" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HRV: "
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HRV: "
+          }
+        }
+      }
+    },
+    "hrv_stress_graph_nodata" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nepodařilo se načíst potřebná data."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Failed to retrieve necessary data."
+          }
+        }
+      }
+    },
+    "hrv_stress_graph_time" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Čas: "
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Time: "
+          }
+        }
+      }
+    },
+    "infosheet_daily_header" : {
+      "comment" : "Header label",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Informace o grafu"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About graph"
+          }
+        }
+      }
+    },
+    "infosheet_daily_stress_atpeace_text" : {
+      "comment" : "Text label",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HRV je větší než průměrné HRV."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HRV is greater than the average HRV."
+          }
+        }
+      }
+    },
+    "infosheet_daily_stress_normal_text" : {
+      "comment" : "Text label",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HRV je v přijatelném rozpětí vůči průměru HRV."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HRV is within an acceptable range relative to the average HRV."
+          }
+        }
+      }
+    },
+    "infosheet_daily_stress_payattention_text" : {
+      "comment" : "Text label",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HRV je pod průměrem HRV."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HRV is below the average HRV."
+          }
+        }
+      }
+    },
+    "infosheet_daily_stress_stressed_text" : {
+      "comment" : "Text label",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HRV je hluboko pod průměrem HRV."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HRV is well below the average HRV."
+          }
+        }
+      }
+    },
+    "infosheet_daily_text" : {
+      "comment" : "Text label",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Na grafu vývoje HRV a stresu v průběhu dne můžete vidět všechny dostupné měření HRV v průběhu dne, barva záznamu odpovídá vypočítané míře stresu. \n\nSvislá čárkovaná čára je vizuálním indikátorem, který pomáhá uživateli vidět, kdy během dne si našel čas na mindfulness. Pokud se na grafu nachází více těchto čar, každá z nich představuje jednotlivou mindfulness seanci, kterou uživatel uskutečnil v různých časech během dne.\n\nData jsou importována z Apple Health. \n\nÚroveň stresu je vypočítána podle míry naměřeného HRV porovnané vůči průměrné hodnotě vašeho HRV za 30 dní.\n\nVíce informací najdete v sekci často kladených otázek v nastavení aplikace."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In this graph you can see all available HRV readings during the day, the colour of the record corresponds to the calculated stress level.\n\nThe vertical dashed line is a visual indicator that helps the user see when during the day they have found time for mindfulness. If there are more than one of these lines on the chart, each one represents an individual mindfulness session that the user did at different times during the day.\n\nThe data is imported from Apple Health. \n\nThe stress level is calculated by the HRV measurement rate compared to the average of your HRV over 30 days.\n\nFor more information, see the FAQ section in the app settings."
+          }
+        }
+      }
+    },
+    "infosheet_faq_calculation_how_header" : {
+      "comment" : "Header of how we measure info section",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jak počítáme stres?"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "How do calculate stress?"
+          }
+        }
+      }
+    },
+    "infosheet_faq_calculation_how_text" : {
+      "comment" : "Text of whow we measure info section",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Úroveň stresu je vypočítána podle míry naměřeného HRV porovnané vůči průměrné hodnotě vašeho HRV za 30 dní."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The stress level is calculated by the RMSSD HRV measurement rate compared to the average of your RMSSD HRV over 30 days."
+          }
+        }
+      }
+    },
+    "infosheet_faq_calculation_what_header" : {
+      "comment" : "Header of what is hrv info section",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Co je RMSSD?"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What is RMSSD?"
+          }
+        }
+      }
+    },
+    "infosheet_faq_calculation_what_text" : {
+      "comment" : "Text of what is hrv info section",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hodnoty HRV zobrazené v aplikaci MindApp se vypočítávají pomocí RMSSD (z anglického Root Mean Square of Successive Differences). RMSSD je odmocnina z průměru rozdílů každých dvou po sobě následujících NN intervalů srdeční frekvence umocněných na druhou.\n\nNaproti tomu hodnoty HRV zobrazené v aplikaci Apple Health jsou založeny na SDNN (z anglického Standard Deviation of Normal-to-Normal intervals). SDNN představuje směrodatnou odchylku všech normálních intervalů srdeční frekvence (intervalů NN)."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HRV values shown in MindApp are calculated using RMSSD (Root Mean Square of Successive Differences). RMSSD is the square root of the average of the sum of the squares of the differences between consecutive heart rate intervals.\n\nOn the other hand, HRV values displayed in Apple Health are based on SDNN (Standard Deviation of Normal-to-Normal intervals). SDNN represents the standard deviation of all normal heart rate intervals (NN intervals)."
+          }
+        }
+      }
+    },
+    "infosheet_faq_calculation_why_header" : {
+      "comment" : "Header of why rmssd info section",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proč RMSSD a ne SDNN?"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Why RMSSD and not SDNN?"
+          }
+        }
+      }
+    },
+    "infosheet_faq_calculation_why_text" : {
+      "comment" : "Text of why rmssd info section",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SDNN představuje souhrnnou HRV, která zahrnuje dlouhodobou i krátkodobou variabilitu srdeční frekvence, zatímco RMSSD odráží pouze krátkodobou variabilitu srdeční frekvence. SDNN je vhodná pro hodnocení celkové regulační funkce srdečního autonomního nervového systému a lépe reaguje na změny HRV v delším časovém období.\n\nVýpočet SDNN zahrnuje všechny změny v intervalech srdeční frekvence, zatímco RMSSD se zaměřuje pouze na změny v po sobě jdoucích intervalech srdeční frekvence. Díky tomu je RMSSD vhodnější pro hodnocení krátkodobé regulační funkce srdečního autonomního nervového systému a citlivější na změny HRV v kratších obdobích.\n\nTip: Pokud si všimnete, že načítání trendů nějakou dobu trvá, je to proto, že data a výpočty potřebné k výpočtu RMSSD nejsou přímo přístupné z Apple Health."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SDNN represents overall HRV, encompassing both long-term and short-term heart rate variability, whereas RMSSD reflects only short-term heart rate variability. SDNN is appropriate for evaluating the overall regulatory function of the cardiac autonomic nervous system and is more responsive to HRV changes over extended periods.\n\nSDNN calculation includes all variations in heart rate intervals, while RMSSD focuses only on variations in consecutive heart rate intervals. This makes RMSSD more suitable for assessing the short-term regulatory function of the cardiac autonomic nervous system and more sensitive to HRV changes over shorter periods.\n\nTip: If you notice that trends take some time to load, it's because the data and calculations required to compute RMSSD are not directly accessible from Apple Health."
+          }
+        }
+      }
+    },
+    "infosheet_faq_frequency_manualmeasure_header" : {
+      "comment" : "Header of manual measurement info section",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jak provést ruční měření HRV pomocí Apple Watch?"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "How to take a manual HRV measurement with Apple Watch?"
+          }
+        }
+      }
+    },
+    "infosheet_faq_frequency_manualmeasure_text" : {
+      "comment" : "Text of manual measurement info section",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Protože hodinky Apple Watch neumožňují nastavit frekvence měření HRV přímo, lze to obejít pomocí aplikace „Dýchaní“ na hodinkách Apple Watch. \n\nV aplikaci „Dýchaní“ můžete spustit praktiku a zároveň spustit praktiku mindfulness v naší aplikaci MindApp. \n\nVibrace v aplikaci „Breath“ lze vypnout, aby vás během mindfulness nerozptylovaly, a relaci lze nastavit od 1 do 5 minut - to vám umožní měřit HRV přímo během vašich mindfulness praktik nebo po jejich ukončení."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Since Apple Watch does not allow to adjust HRV measurement frequencies directly, there is way around this by using \"Breath\" app on Apple Watch. \n\nYou can start session in \"Breath\" app while at same time you start your mindfulness session in MindApp. \n\nHaptics in \"Breath\" app can be turned off not to distract you during mindfulness and session can be adjusted from 1 to 5 minutes - this will allow you to measure HRV directly during you mindfulness sessions or after you finished one."
+          }
+        }
+      }
+    },
+    "infosheet_faq_frequency_often_header" : {
+      "comment" : "Header of collection frequency info section",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Frekvence měření"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Measurement frequency"
+          }
+        }
+      }
+    },
+    "infosheet_faq_frequency_often_text" : {
+      "comment" : "Text of collection frequency info section",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple Watch obvykle sbírají údaje o HRV jednou za 2-5 hodiny v závislosti na různých faktorech, jako je pohyb a srdeční frekvence. V současné době neexistuje žádný způsob, jak Apple Watch přinutit k HRV čtení přímo z aplikace ani možnost upravit frekvenci měření.\n\nTip: Pokud je vaším osobním cílem sledovat HRV během celého dne, existuje na zařízeních Apple Watch series 4 a novější možnost zapnout v aplikaci Apple Health funkci historii AFib (fibrilace síní), která přinutí Apple Watch číst HRV každých 15-20 minut.\n\nJak zapnout AFib: [https://support.apple.com/cs-cz/HT212214](https://support.apple.com/cs-cz/HT212214)"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple watch normally collects HRV data every 2-5 hours, depending of multiple factors like movement and heart rate. Currently there is no programmatical way to force Apple Watch to read HRV nor adjust frequency of measurements.\n\nTip: If your personal goal is to observe HRV during whole day, there is possibility to turn on AFib (Atrial Fibrillation) history feature on Apple Watch series 4 and newer in the Apple Health that forces Apple Watch to read HRV every 15-20 minutes.\n\nHow to turn AFib on: [https://support.apple.com/en-us/HT212214](https://support.apple.com/en-us/HT212214)"
+          }
+        }
+      }
+    },
+    "infosheet_faq_hrv_control_header" : {
+      "comment" : "Header of what can you control info section",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Co můžete a nemůžete ovlivnit?"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What you can and can't control?"
+          }
+        }
+      }
+    },
+    "infosheet_faq_hrv_control_text" : {
+      "comment" : "Text of what can you control info section",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Můžete ovlivnit:\n    • Spánek\n    • Mentální a emocionální stav\n    • Okolní prostředí\n    • Životní styl\n    • Alkohol, drohy a stimulanty\n    \nNemůžete ovlivnit:\n    • Genetické faktory\n    • Věk\n    • Hornonální cyklus\n    • Nemoci"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Can:\n    • Sleep\n    • Mental & emotional state\n    • Environmental factors\n    • Lifestyle\n    • Alcohol & drugs\n\nCan't:\n    • Genetic factors\n    • Age\n    • Hormone cycle\n    • Illness"
+          }
+        }
+      }
+    },
+    "infosheet_faq_hrv_higher_header" : {
+      "comment" : "Header of is higher better info section",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Je větší HRV lepší?"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Is higher HRV better?"
+          }
+        }
+      }
+    },
+    "infosheet_faq_hrv_higher_text" : {
+      "comment" : "Text of is higher better info section",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obecně platí, že vyšší HRV signalizuje lepší rovnováhu autonomního nervového systému a větší adaptabilitu organismu, zatímco nižší HRV může signalizovat stres, únavu nebo jiné zdravotní problémy. HRV je však ovlivněna různými faktory, včetně věku, pohlaví, životního stylu a genetiky, které je třeba při analýze HRV zohlednit. Sledováním HRV mohou jednotlivci získat poznatky o své reakci na cvičení, regeneraci a životní stres, což umožňuje vědecky podloženější volbu tréninku nebo životního stylu."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Generally, higher HRV indicates a better balance of the autonomic nervous system and greater adaptability of the body, while lower HRV may signal stress, fatigue, or other health issues. However, HRV is influenced by various factors, including age, gender, lifestyle, and genetics, which must be considered when analyzing HRV. By monitoring HRV, individuals can gain insights into their response to exercise, recovery, and life stress, enabling more scientifically informed training and lifestyle choices."
+          }
+        }
+      }
+    },
+    "infosheet_faq_hrv_what_header" : {
+      "comment" : "Header of what is hrv info section",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Co je HRV?"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What is HRV?"
+          }
+        }
+      }
+    },
+    "infosheet_faq_hrv_what_text" : {
+      "comment" : "Text of what is hrv info section",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Variabilita srdečního tepu (z anglického Heart Rate Variability) označuje přirozené kolísání časových intervalů (nazývané jako NN nebo RR intervaly) mezi jednotlivými údery srdce v daném období. V podstatě měří kolísání časových intervalů mezi jednotlivými údery srdce. HRV je klíčovým fyziologickým ukazatelem kardiovaskulárního zdraví, funkce autonomního nervového systému a úrovně stresu a regenerace a je relativní pro každého člověka. HRV je velmi citlivý ukazatel, který reaguje u každého jedinečně.\n\nHRV je řízena sympatickým i parasympatickým nervovým systémem, které jsou zodpovědné za aktivaci, respektive zklidnění tělesných funkcí. Sympatický nervový systém reaguje na stres nebo napětí, zatímco parasympatický nervový systém řídí odpočinek a trávení. Tyto systémy se společně vzájemně vyvažují a udržují tělesnou homeostázu."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heart Rate Variability (HRV) refers to the natural fluctuations in the time intervals (known as NN or RR intervals) between heartbeats over a given period. Essentially, it measures the variation in timing between heartbeats. HRV is a key physiological indicator of cardiovascular health, autonomic nervous system function, and stress and recovery levels and is relative for each person. HRV is a highly sensitive metric, which responds uniquely for everyone.\n\nHRV is controlled by both the sympathetic and parasympathetic nervous systems, which are responsible for activating and calming bodily functions, respectively. The sympathetic nervous system responds to stress or tension, while the parasympathetic nervous system manages rest and digestion. Together, these systems balance each other to maintain bodily homeostasis."
+          }
+        }
+      }
+    },
+    "infosheet_mind_reminder_button" : {
+      "comment" : "Create button label",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vytvořit připomínku"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Create reminder"
+          }
+        }
+      }
+    },
+    "infosheet_mind_reminder_header" : {
+      "comment" : "Header label",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nastavení času připomínky"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reminder time configuration"
+          }
+        }
+      }
+    },
+    "infosheet_wi_dayscore_header" : {
+      "comment" : "Header of dayscore info section",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Informace o grafu"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About graph"
+          }
+        }
+      }
+    },
+    "infosheet_wi_dayscore_text" : {
+      "comment" : "Text of dayscore info section",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Graf prezentuje denní průměrné hodnoty HRV za vybrané časové období. Barvy na grafu odpovídají frekvenci výskytu určeného stresového stavu během jednotlivých dní.\n\nBarevné označení pod sloupci grafu je vizuálním indikátorem, zda si uživatel v průběhu dne našel čas na mindfulness seanci.\n\nVíce informací najdete v sekci často kladených otázek v nastavení aplikace."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The graph presents the daily average HRV values for the selected time period. The colors on the graph correspond to the frequency of occurrence of the specified stress condition during each day.\n\nThe coloured markings below the bars of the chart are a visual indicators of whether the user has found time for a mindfulness session during the day.\n\nFor more information, see the FAQ section in the application settings."
+          }
+        }
+      }
+    },
+    "infosheet_wi_timeofday_header" : {
+      "comment" : "Header of time of day info section",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Informace o grafu"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About graph"
+          }
+        }
+      }
+    },
+    "infosheet_wi_timeofday_text" : {
+      "comment" : "Text of time of day info section",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro vizualizaci nejvíce stresujících částí dne prezentuje graf nejčetnější frekvence výskytu stresových stavů v každé hodině v průběhu celého dne za vybrané časové období.\n\nŘádek v každém dni je rozdělený na dvě části. Horní část reprezentuje úroveň stresu a spodní část představuje, zda si uživatel v průběhu dne v dané hodině našel čas na mindfulness seanci.\n\nVíce informací najdete v sekci často kladených otázek v nastavení aplikace."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "To visualise the most stressful parts of the day, the chart presents the most frequency of occurrence of stressful conditions in each hour throughout the day for the selected time period.\n\nThe row in each day is divided into two parts. The top part represents the level of stress and the bottom part represents whether the user found time for a mindfulness session during that hour of the day.\n\nFor more information, see the FAQ section in the application settings."
+          }
+        }
+      }
+    },
+    "input_section" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vstup"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Input"
+          }
+        }
+      }
+    },
+    "Key:" : {
+
+    },
+    "last_summary_generated_at: %@" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zdravotní souhrn vygenerován: %@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Health summary generated at: %@"
+          }
+        }
+      }
+    },
+    "Level %lld" : {
+
+    },
+    "Meditation" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meditace"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meditation"
+          }
+        }
+      }
+    },
+    "mind_breathing_desc" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Série řízených dechových cvičení, která vám pomohou uvolnit se."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A series of guided breathing exercises to help you relax."
+          }
+        }
+      }
+    },
+    "mind_meditation_desc" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meditace pro zklidnění mysli a duše."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meditations to calm the mind and soul."
+          }
+        }
+      }
+    },
+    "mind_session_breathing_safety_1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Pozor na zdravotní stav: Pokud máte respirační problémy, srdeční onemocnění nebo jiné zdravotní problémy, konzultujte před zahájením pravidelného cvičení dýchání s lékařem."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Be cautious with your health: If you have respiratory issues, heart conditions, or other health concerns, consult a doctor before starting regular breathing exercises."
+          }
+        }
+      }
+    },
+    "mind_session_breathing_safety_2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Při závrati zastavte: Pokud během dýchání pocítíte závratě nebo nepohodlí, okamžitě přestaňte a vraťte se k normálnímu dýchání."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Stop if you feel dizzy: If you experience dizziness or discomfort while breathing, stop immediately and return to normal breathing."
+          }
+        }
+      }
+    },
+    "mind_session_breathing_safety_3" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Necvičte při řízení: Nikdy neprovádějte dechová cvičení během řízení nebo v situacích, které vyžadují vaši plnou pozornost a reakce."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Do not practice while driving: Never perform breathing exercises while driving or in situations that require your full attention and quick reactions."
+          }
+        }
+      }
+    },
+    "mind_session_by" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Od"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "By"
+          }
+        }
+      }
+    },
+    "mind_session_chime" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gong"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chime"
+          }
+        }
+      }
+    },
+    "mind_session_cycles" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cykly"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cycles"
+          }
+        }
+      }
+    },
+    "mind_session_duration" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Doba trvání:"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Duration:"
+          }
+        }
+      }
+    },
+    "mind_session_end" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ukončit"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "End session"
+          }
+        }
+      }
+    },
+    "mind_session_evaluation" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jak se cítíte?"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "How do you feel?"
+          }
+        }
+      }
+    },
+    "mind_session_evaluation_better" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lépe než obvykle"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Better than usual"
+          }
+        }
+      }
+    },
+    "mind_session_evaluation_same" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stejně jak obvykle"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Same as usual"
+          }
+        }
+      }
+    },
+    "mind_session_evaluation_worse" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hůře než obvykle"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Worse than usual"
+          }
+        }
+      }
+    },
+    "mind_session_exhale" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Výdech"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exhale"
+          }
+        }
+      }
+    },
+    "mind_session_feeling" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pocit:"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Feeling:"
+          }
+        }
+      }
+    },
+    "mind_session_haptics" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Haptika"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Haptics"
+          }
+        }
+      }
+    },
+    "mind_session_hold" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Držet"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hold"
+          }
+        }
+      }
+    },
+    "mind_session_inhale" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nádech"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inhale"
+          }
+        }
+      }
+    },
+    "mind_session_meditation_safety_1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Vyberte si bezpečné prostředí: Ujistěte se, že meditujete na bezpečném a pohodlném místě, kde nebudete rušeni nebo s rizikem usnutí v nebezpečné pozici."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Choose a safe environment: Ensure that you meditate in a safe and comfortable place where you won't be disturbed or at risk of falling asleep in an unsafe position."
+          }
+        }
+      }
+    },
+    "mind_session_meditation_safety_2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Buďte si vědomi svého duševního stavu: Pokud během meditace zažíváte intenzivní emoce nebo stres, udělejte si přestávku a v případě potřeby se poraďte s odborníkem na duševní zdraví."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Be mindful of your mental state: If you experience intense emotions or distress during meditation, take a break and consult with a mental health professional if necessary."
+          }
+        }
+      }
+    },
+    "mind_session_meditation_safety_3" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Nemeditujte při řízení nebo obsluze strojů: Nikdy nemeditujte při řízení nebo při činnostech, které vyžadují vaši plnou pozornost a bdělost."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Avoid meditating while driving or operating machinery: Never meditate while driving or engaging in activities that require your full attention and alertness."
+          }
+        }
+      }
+    },
+    "mind_session_off" : {
+      "comment" : "Off text",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyp."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Off"
+          }
+        }
+      }
+    },
+    "mind_session_on" : {
+      "comment" : "On text",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zap."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "On"
+          }
+        }
+      }
+    },
+    "mind_session_overview" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Přehled"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Overview"
+          }
+        }
+      }
+    },
+    "mind_session_prepare" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pohodlněte se usaďte nebo si lehněte"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sit or lie down comfortably"
+          }
+        }
+      }
+    },
+    "mind_session_safety_info" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Safety notes"
+          }
+        }
+      }
+    },
+    "mind_session_safety_meditation_1" : {
+      "extractionState" : "manual"
+    },
+    "mind_session_safety_notes" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bepečnostní upozornění"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Safety notes"
+          }
+        }
+      }
+    },
+    "mind_session_science" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Věda"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Science"
+          }
+        }
+      }
+    },
+    "mind_session_sound" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zvuk"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sound"
+          }
+        }
+      }
+    },
+    "mind_session_start_time" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Začátek:"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start time:"
+          }
+        }
+      }
+    },
+    "mind_session_starts" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vaše sezení začíná za"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your session starts in"
+          }
+        }
+      }
+    },
+    "mind_session_time" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Čas"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Time"
+          }
+        }
+      }
+    },
+    "mind_session_time_elpased" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uplynutý čas"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Time elapsed"
+          }
+        }
+      }
+    },
+    "mind_session_when" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kdy využít"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "When to use"
+          }
+        }
+      }
+    },
+    "mind_sound_bird" : {
+      "comment" : "Bird whistling sound",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ptačí zpěv"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Birds Whistling"
+          }
+        }
+      }
+    },
+    "mind_sound_harmonic" : {
+      "comment" : "Harmonic sound",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Harmonický"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Harmonic"
+          }
+        }
+      }
+    },
+    "mind_sound_none" : {
+      "comment" : "No sound",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Žádný"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "None"
+          }
+        }
+      }
+    },
+    "mind_sound_rainfall" : {
+      "comment" : "Rainfall sound",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Déšť"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rainfall"
+          }
+        }
+      }
+    },
+    "mind_sounds_desc" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tyto uklidňující zvuky budou jemně hrát v pozadí během vašeho sezení."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "As you listen to the content, these calming sounds will be playing gently in the background."
+          }
+        }
+      }
+    },
+    "mind_time_preset" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PŘEDVOLENÉ MOŽNOSTI"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PRESET OPTIONS"
+          }
+        }
+      }
+    },
+    "mind_time_unlimited" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bez časového omezení"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unlimited time"
+          }
+        }
+      }
+    },
+    "mind_time_unlimited_short" : {
+      "comment" : "Unlimited time",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neomezeně"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unlimited"
+          }
+        }
+      }
+    },
+    "Mindfulness Session" : {
+
+    },
+    "mindfulness_header" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mindfulness"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mindfulness"
+          }
+        }
+      }
+    },
+    "minute" : {
+      "comment" : "Minute",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "minutu"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "minute"
+          }
+        }
+      }
+    },
+    "minutes" : {
+      "comment" : "Minutes",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "minut"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "minutes"
+          }
+        }
+      }
+    },
+    "Minutes" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minuty"
+          }
+        }
+      }
+    },
+    "nav_home" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Domů"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Home"
+          }
+        }
+      }
+    },
+    "nav_mindful" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wellbeing"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Wellbeing"
+          }
+        }
+      }
+    },
+    "nav_profile" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profil"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profile"
+          }
+        }
+      }
+    },
+    "nav_settings" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nastavení"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings"
+          }
+        }
+      }
+    },
+    "nav_trends" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trendy"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trends"
+          }
+        }
+      }
+    },
+    "next_summary_generation_available_in: %@" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Generování zdravotního souhrnu dostupné za: %@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Health summary generation available in: %@"
+          }
+        }
+      }
+    },
+    "No" : {
+
+    },
+    "noData_label" : {
+      "comment" : "No data label",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Žádná data"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No data"
+          }
+        }
+      }
+    },
+    "output_section" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Výstup"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Output"
+          }
+        }
+      }
+    },
+    "profile_header" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profil"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profile"
+          }
+        }
+      }
+    },
+    "profile_section_achievements" : {
+      "comment" : "Section Achievements - header label",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mindfulness přehledy a odměny"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mindfulness overviews and achievements"
+          }
+        }
+      }
+    },
+    "reflection_back_button" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reflexe"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reflection"
+          }
+        }
+      }
+    },
+    "reflection_button_continue_to_evaluation" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pokračovat k vyhodnocení"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue to evaluation"
+          }
+        }
+      }
+    },
+    "reflection_card_description" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chat s AI pro podporu sebereflexe"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Chat with AI to support self-reflection"
+          }
+        }
+      }
+    },
+    "reflection_card_title" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reflexe"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reflection"
+          }
+        }
+      }
+    },
+    "reflection_description" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Při reflexi vám budou kladeny otázky vygenerované umělou inteligencí, cílené na Váš den a jeho konkrétní specifika. Celé sezení se skládá ze tří kol otázek a odpovědí - po zahájení umělá inteligence vygeneruje úvodní tři otázky, z těchto otázek si máte možnost vybrat jednu, která Vám vyhovuje nejlépe. Po odeslání odpovědi na zvolenou otázku UI vygeneruje další tři otázky, akorát tentokrát se pokusí zaměřit otázky na kontext Vaší odpovědi. Celkem se tímto způsobem vygenerují tři trojice otázek, z čehož odpovíte na 3. Po poslední odpovědi se přesunete do formuláře obsahující otázky ohledně vyhodnocení sezení."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "During reflection session, you will be given sets of 3 questions generated by artificial intelligence targeted at your day and its specifics. The entire session consists of three rounds of questions and answers - at the beginning, AI generates first three questions. You will choose one of those three questions which fits you best. After sending your answer to the chosen question, the AI will generate next three questions, this time targeted at the context of your first answer. In total, the session consists of three rounds of three questions, of which you will answer three. After the last answer, you will move to a form consisting of questions regarding the evaluation of the session."
+          }
+        }
+      }
+    },
+    "reflection_history" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zobrazit historii reflexí"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "View reflection history"
+          }
+        }
+      }
+    },
+    "reflection_history_back_button" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Historie reflexí"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Reflection history"
+          }
+        }
+      }
+    },
+    "reflection_history_date:" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Datum reflexe:"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Date of reflection:"
+          }
+        }
+      }
+    },
+    "reflection_history_empty_title" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Historie reflexí je prázdná"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reflection history is empty"
+          }
+        }
+      }
+    },
+    "reflection_history_item_back" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sezení reflexe"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reflection entry"
+          }
+        }
+      }
+    },
+    "reflection_history_session_title" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reflexe"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reflection Session"
+          }
+        }
+      }
+    },
+    "reflection_prompt" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odpověď"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Answer"
+          }
+        }
+      }
+    },
+    "reflection_view_title" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reflexe"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reflection"
+          }
+        }
+      }
+    },
+    "response_mode_toggle" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mód odpovědi:"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Response mode:"
+          }
+        }
+      }
+    },
+    "RHR" : {
+
+    },
+    "scheduled_notification_body" : {
+      "comment" : "Body label",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Je čas na praxi mindfulness!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "It's time to do your mindfulness practice!"
+          }
+        }
+      }
+    },
+    "scheduled_notification_title" : {
+      "comment" : "Title label",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mindfulness"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mindfulness"
+          }
+        }
+      }
+    },
+    "Seconds" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sekundy"
+          }
+        }
+      }
+    },
+    "send_request_button" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odeslat požadavek"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Send request"
+          }
+        }
+      }
+    },
+    "settings_achievements_current_streak" : {
+      "comment" : "Section Achievements - current streak label",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktuální série"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Current streak"
+          }
+        }
+      }
+    },
+    "settings_achievements_day_label" : {
+      "comment" : "Section Achievements - day label",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "dnů"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "days"
+          }
+        }
+      }
+    },
+    "settings_achievements_perfect_month" : {
+      "comment" : "Section Achievements - perfect month label",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perfektní měsíc"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perfect month"
+          }
+        }
+      }
+    },
+    "settings_achievements_perfect_week" : {
+      "comment" : "Section Achievements - perfect week label",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perfektní týden"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perfect week"
+          }
+        }
+      }
+    },
+    "settings_achievements_top_streak" : {
+      "comment" : "Section Achievements - top streak label",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nejdelší série"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Top streak"
+          }
+        }
+      }
+    },
+    "settings_achievements_totalmins" : {
+      "comment" : "Section Achievements - total mind minutes label",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Celkem mindful minut"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Total mindful minutes"
+          }
+        }
+      }
+    },
+    "settings_faq_abouthrv" : {
+      "comment" : "Section FAQ - About HRV",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Co je to HRV?"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What is HRV?"
+          }
+        }
+      }
+    },
+    "settings_faq_howoften" : {
+      "comment" : "Section FAQ - How often",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jak často dochází k měření?"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "How often is HRV measured?"
+          }
+        }
+      }
+    },
+    "settings_faq_measuringstress" : {
+      "comment" : "Section FAQ - How is stressed measured",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jak měříme stres?"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "How we measure stress?"
+          }
+        }
+      }
+    },
+    "settings_header" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nastavení"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings"
+          }
+        }
+      }
+    },
+    "settings_profile_daily_reminder" : {
+      "comment" : "Section Profile - daily reminder label",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Připomínka mindfulness"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mindfulness reminder"
+          }
+        }
+      }
+    },
+    "settings_profile_language" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jazyk"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Language"
+          }
+        }
+      }
+    },
+    "settings_profile_logout" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odhlásit se"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Log Out"
+          }
+        }
+      }
+    },
+    "settings_profile_stress_reminder" : {
+      "comment" : "Section Profile - stress reminder label",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Upozornění na stres"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stress notification"
+          }
+        }
+      }
+    },
+    "settings_section_faq" : {
+      "comment" : "Section FAQ - header label",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Často kladené dotazy"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FAQ"
+          }
+        }
+      }
+    },
+    "settings_section_profile" : {
+      "comment" : "Section Profile - header label",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profil"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profile"
+          }
+        }
+      }
+    },
+    "sign_to" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Přihlašte se k existujícímu účtu"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sign to existing account"
+          }
+        }
+      }
+    },
+    "Start" : {
+
+    },
+    "start_reflection_session_button" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Začít reflexi"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start Reflection"
+          }
+        }
+      }
+    },
+    "steps_small_title" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kroky"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Steps"
+          }
+        }
+      }
+    },
+    "streaming" : {
+
+    },
+    "Stress Level" : {
+
+    },
+    "stress_level_atpeace" : {
+      "comment" : "At Peace",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "V klidu"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "At peace"
+          }
+        }
+      }
+    },
+    "stress_level_normal" : {
+      "comment" : "Normal",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Normální"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Normal"
+          }
+        }
+      }
+    },
+    "stress_level_payattention" : {
+      "comment" : "Pay Attention",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pozor"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pay Attention"
+          }
+        }
+      }
+    },
+    "stress_level_stressed" : {
+      "comment" : "Stressed",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ve stresu"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stressed"
+          }
+        }
+      }
+    },
+    "stress_level_undefined" : {
+      "comment" : "Undefined",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nedefinováno"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Undefined"
+          }
+        }
+      }
+    },
+    "stress_notification_body" : {
+      "comment" : "Stress notification - Body label",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vypadá to, že jste právě teď ve stresu. Pomohla by vám krátká přestávka nebo chvíle s mindfulness."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Looks like you are stressed right now. Short break or mindfulness session might help."
+          }
+        }
+      }
+    },
+    "stress_notification_title" : {
+      "comment" : "Stress notification - Title label",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Momentálně jste ve stresu"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You are currently stressed"
+          }
+        }
+      }
+    },
+    "Thank you" : {
+
+    },
+    "thank_you_evaluation_end_text" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Díky za vyplnění formuláře"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thank you for filling out the form"
+          }
+        }
+      }
+    },
+    "The Free Mindfulness Project" : {
+
+    },
+    "tips" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tipy"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tips"
+          }
+        }
+      }
+    },
+    "trends_header" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trendy"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trends"
+          }
+        }
+      }
+    },
+    "trends_section_breakdown_header" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rozpad na úrovně"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Score breakdown"
+          }
+        }
+      }
+    },
+    "trends_section_dayscore_header" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Denní skóre"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Daily score"
+          }
+        }
+      }
+    },
+    "trends_section_timeofday_header" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Průběh dne"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Time of day"
+          }
+        }
+      }
+    },
+    "trends_share_button" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sdílet trendy"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Share trends"
+          }
+        }
+      }
+    },
+    "trends_toggle_monthly" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Měsíčně"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Monthly"
+          }
+        }
+      }
+    },
+    "trends_toggle_weekly" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Týdně"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Weekly"
+          }
+        }
+      }
+    },
+    "Unknown case received: %@" : {
+
+    },
+    "URL:" : {
+
+    },
+    "welcome" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vítejte v MindApp"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Welcome to MindApp"
+          }
+        }
+      }
+    },
+    "welcome_desc" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vaše aplikace pro zvládání stresu a nalezení klidu uprostřed chaosu studentského života"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your go-to app for managing stress and finding your zen amidst the chaos of student life"
+          }
+        }
+      }
+    },
+    "wellbeing_header" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wellbeing"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wellbeing"
+          }
+        }
+      }
+    },
+    "wi_dayscore_avg_hrv_label" : {
+      "comment" : "Average HRV label",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Průměr HRV"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Average HRV"
+          }
+        }
+      }
+    },
+    "wi_dayscore_avg_weekday_hrv_label" : {
+      "comment" : "Average HRV weekdays label",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Průměr HRV (pracovní dny)"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Average HRV (weekdays)"
+          }
+        }
+      }
+    },
+    "wi_dayscore_avg_weekend_hrv_label" : {
+      "comment" : "Average HRV weekends label",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Průměr HRV (víkend)"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Average HRV (weekends)"
+          }
+        }
+      }
+    },
+    "wi_timeofday_max_hrv_label" : {
+      "comment" : "Max HRV label",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Max HRV"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Max HRV"
+          }
+        }
+      }
+    },
+    "wi_timeofday_min_hrv_label" : {
+      "comment" : "Min HRV label",
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Min HRV"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Min HRV"
+          }
+        }
+      }
+    },
+    "XP: %lld / %lld" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "XP: %1$lld / %2$lld"
+          }
+        }
+      }
+    },
+    "Yes" : {
+
+    },
+    "yes_alert_option" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ano"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Yes"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

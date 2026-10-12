@@ -1,0 +1,569 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 70;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		D00109572BAD80F700FD5445 /* Auth in Frameworks */ = {isa = PBXBuildFile; productRef = D00109562BAD80F700FD5445 /* Auth */; };
+		D00109592BAD80F700FD5445 /* Functions in Frameworks */ = {isa = PBXBuildFile; productRef = D00109582BAD80F700FD5445 /* Functions */; };
+		D001095B2BAD80F700FD5445 /* PostgREST in Frameworks */ = {isa = PBXBuildFile; productRef = D001095A2BAD80F700FD5445 /* PostgREST */; };
+		D001095D2BAD80F700FD5445 /* Realtime in Frameworks */ = {isa = PBXBuildFile; productRef = D001095C2BAD80F700FD5445 /* Realtime */; };
+		D001095F2BAD80F700FD5445 /* Storage in Frameworks */ = {isa = PBXBuildFile; productRef = D001095E2BAD80F700FD5445 /* Storage */; };
+		D00109652BAD85D100FD5445 /* Supabase in Frameworks */ = {isa = PBXBuildFile; productRef = D00109642BAD85D100FD5445 /* Supabase */; };
+		D01BFDB72BAF507C005F7398 /* AlertToast in Frameworks */ = {isa = PBXBuildFile; productRef = D01BFDB62BAF507C005F7398 /* AlertToast */; };
+		F34483892D4516A100611CC6 /* MindApp.xctestplan in Resources */ = {isa = PBXBuildFile; fileRef = F34483882D4516A100611CC6 /* MindApp.xctestplan */; };
+		F347C54F2D4A71EE0012F24F /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = F347C54E2D4A71EE0012F24F /* README.md */; };
+		F347C5502D4A71EE0012F24F /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = F347C54E2D4A71EE0012F24F /* README.md */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		F344837F2D450E8300611CC6 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D07209B92BA62C3900C036D3 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D07209C02BA62C3900C036D3;
+			remoteInfo = MindApp;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		D0CCB0E52BAEEFF6006A4FA2 /* MindApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MindApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F344837B2D450E8300611CC6 /* MindAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MindAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F34483882D4516A100611CC6 /* MindApp.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = MindApp.xctestplan; sourceTree = "<group>"; };
+		F347C54E2D4A71EE0012F24F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		F3C07E862D46970600F20D02 /* PBXFileSystemSynchronizedBuildFileExceptionSet */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = D07209C02BA62C3900C036D3 /* MindApp */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		F344837C2D450E8300611CC6 /* MindAppTests */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = MindAppTests; sourceTree = "<group>"; };
+		F3C07E182D46970500F20D02 /* MindApp */ = {isa = PBXFileSystemSynchronizedRootGroup; exceptions = (F3C07E862D46970600F20D02 /* PBXFileSystemSynchronizedBuildFileExceptionSet */, ); explicitFileTypes = {}; explicitFolders = (); path = MindApp; sourceTree = "<group>"; };
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D07209BE2BA62C3900C036D3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D001095B2BAD80F700FD5445 /* PostgREST in Frameworks */,
+				D01BFDB72BAF507C005F7398 /* AlertToast in Frameworks */,
+				D00109592BAD80F700FD5445 /* Functions in Frameworks */,
+				D00109652BAD85D100FD5445 /* Supabase in Frameworks */,
+				D00109572BAD80F700FD5445 /* Auth in Frameworks */,
+				D001095F2BAD80F700FD5445 /* Storage in Frameworks */,
+				D001095D2BAD80F700FD5445 /* Realtime in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F34483782D450E8300611CC6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D07209B82BA62C3900C036D3 = {
+			isa = PBXGroup;
+			children = (
+				F3C07E182D46970500F20D02 /* MindApp */,
+				F344837C2D450E8300611CC6 /* MindAppTests */,
+				F344837B2D450E8300611CC6 /* MindAppTests.xctest */,
+				F34483882D4516A100611CC6 /* MindApp.xctestplan */,
+				D0CCB0E52BAEEFF6006A4FA2 /* MindApp.app */,
+				F347C54E2D4A71EE0012F24F /* README.md */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		D07209C02BA62C3900C036D3 /* MindApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D07209E52BA62C3A00C036D3 /* Build configuration list for PBXNativeTarget "MindApp" */;
+			buildPhases = (
+				D07209BD2BA62C3900C036D3 /* Sources */,
+				D07209BE2BA62C3900C036D3 /* Frameworks */,
+				D07209BF2BA62C3900C036D3 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				F3C07E182D46970500F20D02 /* MindApp */,
+			);
+			name = MindApp;
+			packageProductDependencies = (
+				D00109562BAD80F700FD5445 /* Auth */,
+				D00109582BAD80F700FD5445 /* Functions */,
+				D001095A2BAD80F700FD5445 /* PostgREST */,
+				D001095C2BAD80F700FD5445 /* Realtime */,
+				D001095E2BAD80F700FD5445 /* Storage */,
+				D00109642BAD85D100FD5445 /* Supabase */,
+				D01BFDB62BAF507C005F7398 /* AlertToast */,
+			);
+			productName = MindApp;
+			productReference = D0CCB0E52BAEEFF6006A4FA2 /* MindApp.app */;
+			productType = "com.apple.product-type.application";
+		};
+		F344837A2D450E8300611CC6 /* MindAppTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F34483832D450E8300611CC6 /* Build configuration list for PBXNativeTarget "MindAppTests" */;
+			buildPhases = (
+				F34483772D450E8300611CC6 /* Sources */,
+				F34483782D450E8300611CC6 /* Frameworks */,
+				F34483792D450E8300611CC6 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F34483802D450E8300611CC6 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				F344837C2D450E8300611CC6 /* MindAppTests */,
+			);
+			name = MindAppTests;
+			packageProductDependencies = (
+			);
+			productName = MindAppTests;
+			productReference = F344837B2D450E8300611CC6 /* MindAppTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D07209B92BA62C3900C036D3 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1530;
+				TargetAttributes = {
+					D07209C02BA62C3900C036D3 = {
+						CreatedOnToolsVersion = 15.2;
+					};
+					F344837A2D450E8300611CC6 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = D07209C02BA62C3900C036D3;
+					};
+				};
+			};
+			buildConfigurationList = D07209BC2BA62C3900C036D3 /* Build configuration list for PBXProject "MindApp" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = cs;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+				cs,
+			);
+			mainGroup = D07209B82BA62C3900C036D3;
+			packageReferences = (
+				D00109552BAD80F700FD5445 /* XCRemoteSwiftPackageReference "supabase-swift" */,
+				D01BFDB52BAF507C005F7398 /* XCRemoteSwiftPackageReference "AlertToast" */,
+			);
+			productRefGroup = D07209B82BA62C3900C036D3;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D07209C02BA62C3900C036D3 /* MindApp */,
+				F344837A2D450E8300611CC6 /* MindAppTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		D07209BF2BA62C3900C036D3 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F347C5502D4A71EE0012F24F /* README.md in Resources */,
+				F34483892D4516A100611CC6 /* MindApp.xctestplan in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F34483792D450E8300611CC6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F347C54F2D4A71EE0012F24F /* README.md in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D07209BD2BA62C3900C036D3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F34483772D450E8300611CC6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		F34483802D450E8300611CC6 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D07209C02BA62C3900C036D3 /* MindApp */;
+			targetProxy = F344837F2D450E8300611CC6 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		D07209E32BA62C3A00C036D3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		D07209E42BA62C3A00C036D3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		D07209E62BA62C3A00C036D3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-Debug";
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = MindApp/MindApp.entitlements;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 2;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_ASSET_PATHS = "\"MindApp/Preview Content\"";
+				DEVELOPMENT_TEAM = 96JK236P9Z;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = MindApp/Info.plist;
+				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.healthcare-fitness";
+				INFOPLIST_KEY_NSHealthShareUsageDescription = "Tato aplikace vyžaduje přístup k údajům HealthKit pro sledování vašich zdravotních metrik.";
+				INFOPLIST_KEY_NSHealthUpdateUsageDescription = "Tato aplikace potřebuje vaše povolení k aktualizaci údajů HealthKit.";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.2.4;
+				PRODUCT_BUNDLE_IDENTIFIER = cz.vse.MindAppV2;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_PRECOMPILE_BRIDGING_HEADER = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		D07209E72BA62C3A00C036D3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = MindApp/MindApp.entitlements;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 2;
+				DEVELOPMENT_ASSET_PATHS = "\"MindApp/Preview Content\"";
+				DEVELOPMENT_TEAM = 96JK236P9Z;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = MindApp/Info.plist;
+				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.healthcare-fitness";
+				INFOPLIST_KEY_NSHealthShareUsageDescription = "Tato aplikace vyžaduje přístup k údajům HealthKit pro sledování vašich zdravotních metrik.";
+				INFOPLIST_KEY_NSHealthUpdateUsageDescription = "Tato aplikace potřebuje vaše povolení k aktualizaci údajů HealthKit.";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.2.4;
+				PRODUCT_BUNDLE_IDENTIFIER = cz.vse.MindAppV2;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_PRECOMPILE_BRIDGING_HEADER = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		F34483812D450E8300611CC6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 21;
+				DEVELOPMENT_TEAM = UHB5R8T2R6;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = cz.vse.MindApp.MindAppTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MindApp.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/MindApp";
+			};
+			name = Debug;
+		};
+		F34483822D450E8300611CC6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 21;
+				DEVELOPMENT_TEAM = UHB5R8T2R6;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = cz.vse.MindApp.MindAppTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MindApp.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/MindApp";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D07209BC2BA62C3900C036D3 /* Build configuration list for PBXProject "MindApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D07209E32BA62C3A00C036D3 /* Debug */,
+				D07209E42BA62C3A00C036D3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D07209E52BA62C3A00C036D3 /* Build configuration list for PBXNativeTarget "MindApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D07209E62BA62C3A00C036D3 /* Debug */,
+				D07209E72BA62C3A00C036D3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F34483832D450E8300611CC6 /* Build configuration list for PBXNativeTarget "MindAppTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F34483812D450E8300611CC6 /* Debug */,
+				F34483822D450E8300611CC6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		D00109552BAD80F700FD5445 /* XCRemoteSwiftPackageReference "supabase-swift" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/supabase-community/supabase-swift.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.4.0;
+			};
+		};
+		D01BFDB52BAF507C005F7398 /* XCRemoteSwiftPackageReference "AlertToast" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/elai950/AlertToast.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.3.9;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		D00109562BAD80F700FD5445 /* Auth */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = D00109552BAD80F700FD5445 /* XCRemoteSwiftPackageReference "supabase-swift" */;
+			productName = Auth;
+		};
+		D00109582BAD80F700FD5445 /* Functions */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = D00109552BAD80F700FD5445 /* XCRemoteSwiftPackageReference "supabase-swift" */;
+			productName = Functions;
+		};
+		D001095A2BAD80F700FD5445 /* PostgREST */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = D00109552BAD80F700FD5445 /* XCRemoteSwiftPackageReference "supabase-swift" */;
+			productName = PostgREST;
+		};
+		D001095C2BAD80F700FD5445 /* Realtime */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = D00109552BAD80F700FD5445 /* XCRemoteSwiftPackageReference "supabase-swift" */;
+			productName = Realtime;
+		};
+		D001095E2BAD80F700FD5445 /* Storage */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = D00109552BAD80F700FD5445 /* XCRemoteSwiftPackageReference "supabase-swift" */;
+			productName = Storage;
+		};
+		D00109642BAD85D100FD5445 /* Supabase */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = D00109552BAD80F700FD5445 /* XCRemoteSwiftPackageReference "supabase-swift" */;
+			productName = Supabase;
+		};
+		D01BFDB62BAF507C005F7398 /* AlertToast */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = D01BFDB52BAF507C005F7398 /* XCRemoteSwiftPackageReference "AlertToast" */;
+			productName = AlertToast;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = D07209B92BA62C3900C036D3 /* Project object */;
+}

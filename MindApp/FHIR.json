@@ -1,0 +1,58 @@
+{
+  "resourceType": "Questionnaire",
+  "id": "physical-activity-questionnaire",
+  "status": "active",
+  "item": [
+    {
+      "linkId": "1",
+      "text": "Do you exercise regularly?",
+      "type": "boolean"
+    },
+    {
+      "linkId": "2",
+      "text": "How many times a week do you engage in physical activity?",
+      "type": "integer"
+    },
+    {
+      "linkId": "3",
+      "text": "What type of physical activity do you mainly engage in?",
+      "type": "choice",
+      "answerOption": [
+        {
+          "valueString": "Walking"
+        },
+        {
+          "valueString": "Running"
+        },
+        {
+          "valueString": "Cycling"
+        },
+        {
+          "valueString": "Strength Training"
+        },
+        {
+          "valueString": "Yoga"
+        },
+        {
+          "valueString": "Other"
+        }
+      ]
+    },
+    {
+      "linkId": "4",
+      "text": "How long do you typically exercise during a session?",
+      "type": "integer",
+      "unit": "minutes"
+    },
+    {
+      "linkId": "5",
+      "text": "Do you feel any discomfort or pain during or after exercise?",
+      "type": "boolean"
+    },
+    {
+      "linkId": "6",
+      "text": "Have you ever consulted a healthcare provider regarding your exercise routine?",
+      "type": "boolean"
+    }
+  ]
+}
